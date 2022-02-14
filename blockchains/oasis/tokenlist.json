@@ -1,0 +1,16 @@
+[
+  {
+      "chainId": 42262,
+      "address": "0x49f06EB1c93d1c5C345d24E8bd50aAd0BCa19DbB",                        
+      "name": "Safemoon Rose",
+      "symbol": "SMRose",
+      "decimals": 18                 
+  },
+  {
+      "chainId": 42262,
+      "address": "0x984151487330EdEd972f7D385d999Ed298CE2601",                        
+      "name": "Lizard Demo",
+      "symbol": "LizardDemo",
+      "decimals": 18
+  }
+]
