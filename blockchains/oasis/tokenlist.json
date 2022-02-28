@@ -12,5 +12,12 @@
       "name": "SafeMoonRose - Testnet",
       "symbol": "SFMRose",
       "decimals": 9
+  },
+  {
+      "chainId": 42262,
+      "address": "0x4738bc1B3D5412aEFee97A8cB4Eb2d8D7E4e71B4",                        
+      "name": "MainToken",
+      "symbol": "MAIN",
+      "decimals": 9
   }
 ]
