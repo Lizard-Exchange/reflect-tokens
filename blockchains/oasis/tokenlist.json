@@ -1,23 +1,23 @@
 [
   {
       "chainId": 42262,
-      "address": "0xA071E7e29FE83c5A22e90508242067082cA57515",                        
+      "address": "0xe1b8e258075d92CC6E9BCD44e423Bd7Eea5D15c2",                        
       "name": "Safemoon Rose",
       "symbol": "SMRose",
       "decimals": 18                 
   },
   {
       "chainId": 42262,
-      "address": "0x687672002d8Ec7cEc3b9231a4d74236072fFd506",                        
-      "name": "SafeMoonRose - Testnet",
-      "symbol": "SFMRose",
+      "address": "0x4738bc1B3D5412aEFee97A8cB4Eb2d8D7E4e71B4",                        
+      "name": "MainToken",
+      "symbol": "MAIN",
       "decimals": 9
   },
   {
       "chainId": 42262,
-      "address": "0x4738bc1B3D5412aEFee97A8cB4Eb2d8D7E4e71B4",                        
-      "name": "MainToken",
-      "symbol": "MAIN",
+      "address": "0x687672002d8Ec7cEc3b9231a4d74236072fFd506",                        
+      "name": "SafeMoonRose - Testnet",
+      "symbol": "SFMRose",
       "decimals": 9
   }
 ]
