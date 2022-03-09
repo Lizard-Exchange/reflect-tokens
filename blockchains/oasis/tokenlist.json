@@ -15,6 +15,13 @@
   },
   {
       "chainId": 42262,
+      "address": "0xe96760593CD583CCe6b1EAb523Ca9C72fb3d1551",                        
+      "name": "RAIN2",
+      "symbol": "RAIN2",
+      "decimals": 9
+  },
+  {
+      "chainId": 42262,
       "address": "0x687672002d8Ec7cEc3b9231a4d74236072fFd506",                        
       "name": "SafeMoonRose - Testnet",
       "symbol": "SFMRose",
