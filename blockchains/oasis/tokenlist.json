@@ -15,9 +15,9 @@
   },
   {
       "chainId": 42262,
-      "address": "0xe96760593CD583CCe6b1EAb523Ca9C72fb3d1551",                        
-      "name": "RAIN2",
-      "symbol": "RAIN2",
+      "address": "0xeccE0b02ff9FE089aEA04A6464be2193eBf61c7c",                        
+      "name": "RAIN3",
+      "symbol": "RAIN3",
       "decimals": 9
   },
   {
