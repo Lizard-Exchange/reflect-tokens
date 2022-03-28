@@ -8,16 +8,9 @@
   },
   {
       "chainId": 42262,
-      "address": "0xD3a22Cb1163da953007E246F01311d65408E63DC",                        
-      "name": "RainToken",
-      "symbol": "RAIN",
-      "decimals": 9
-  },
-  {
-      "chainId": 42262,
-      "address": "0x5805ee9762fBF4a4827f13e075600B9eCE52d46d",                        
-      "name": "RainTest",
-      "symbol": "RainTest",
+      "address": "0xc507dedFc2aD5048630551225B558E05F131e90E",                        
+      "name": "OasisTest",
+      "symbol": "OasisTest",
       "decimals": 9
   },
   {
